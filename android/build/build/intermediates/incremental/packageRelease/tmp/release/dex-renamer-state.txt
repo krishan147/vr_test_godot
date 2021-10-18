@@ -1,0 +1,4 @@
+#Sun Oct 17 13:44:50 BST 2021
+base.0=D\:\\Homework\\tigertest\\android\\build\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
