@@ -33,6 +33,8 @@ if interface and interface.initialize()
 	Engine.iterations_per_second = 72 # Quest
 ```
 
+Also has debugger written.
+
 Licensing
 ---------
 The Godot Oculus Mobile module and the godot scenes in this add on are all supplied under an MIT License.
